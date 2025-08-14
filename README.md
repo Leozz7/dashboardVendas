@@ -37,16 +37,16 @@ Este projeto apresenta um **Dashboard de Vendas** desenvolvido no **Power BI**, 
 ## 📷 Capturas de Tela
 
 ### Tela Inicial
-![Tela Inicial](imagens/telaInicial.png)
+![Tela Inicial](Dashboard Vendas/imagens/telaInicial.png)
 
 ### Visão Geral de Clientes
-![Clientes](imagens/clientes.png)
+![Clientes](Dashboard Vendas/imagens/clientes.png)
 
 ### Recursos Humanos
-![RH](imagens/RH.png)
+![RH](Dashboard Vendas/imagens/RH.png)
 
 ### Visão Geral
-![Visão Geral](imagens/visaoGeral.png)
+![Visão Geral](Dashboard Vendas/imagens/visaoGeral.png)
 
 ---
 
