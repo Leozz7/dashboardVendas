@@ -55,8 +55,7 @@ Este projeto apresenta um **Dashboard de Vendas** desenvolvido no **Power BI**, 
 - **Power BI**
 - **Microsoft Excel** (tratamento de dados)
 - **DAX** (cálculos e métricas personalizadas)
+- **FIGMA**
 
 ---
-
-## 📂 Estrutura do Projeto
 
